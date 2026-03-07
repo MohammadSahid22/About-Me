@@ -1,9 +1,9 @@
 # 💫 About Me:
-🌟 I’m currently working on improving my skills in Programming & Software Development.  
+🌟 I’m currently working on improving my skills in Programming, Web Development & Software Development.  
 🤝 I’m looking to collaborate on beginner-friendly projects and learning-based activities.  
 ❓ I’m looking for help with advanced topics in Data Structures and Algorithms.  
-📚 I’m currently learning Python, Java, and problem-solving techniques.  
-💬 Ask me about Basic Coding, OOP, and Computer Graphics fundamentals.  
+📚 I’m currently learning Python, Java, HTML, DBMS, and problem-solving techniques.  
+💬 Ask me about Basic Coding, OOP, Computer Graphics, and programming fundamentals.  
 ⚡ Fun fact: I love exploring new tech tools and building small projects for practice!
 
 ---
@@ -11,7 +11,6 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shahid_2_2)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shahid8975sh@gmail.com)
-
 
 ---
 
@@ -26,6 +25,10 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
+### 🗄️ Database
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![DBMS](https://img.shields.io/badge/DBMS-003B57?style=for-the-badge&logo=database&logoColor=white)
+
 ### ⚙️ Tools & Platforms
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -33,12 +36,15 @@
 
 ### 🔌 Hardware & IoT
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-00A86B?style=for-the-badge&logo=internetofthings&logoColor=white)
 
 ---
 
 ## 🚀 Currently Working On
 - 🔹 Strengthening Data Structures & Algorithms  
 - 🔹 Building real-world Java & Python projects  
+- 🔹 Learning DBMS and database design concepts  
+- 🔹 Exploring IoT projects using Arduino  
 - 🔹 Improving problem-solving speed  
 
 ---
@@ -54,6 +60,7 @@
 ## 🏆 Achievements
 - 📌 Solved DSA problems on coding platforms  
 - 📌 Built mini academic & personal projects  
+- 📌 Practicing Web Development (HTML, CSS)  
 - 📌 Exploring IoT with Arduino  
 
 ---
@@ -67,9 +74,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MohammadSahid22&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-
 
 ---
 
