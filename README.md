@@ -70,10 +70,6 @@
 
 ---
 
-## 🧠 Coding Profiles
-- 🔹 LeetCode: https://leetcode.com/your-username  
-- 🔹 CodeChef: https://www.codechef.com/users/your-username  
-- 🔹 GeeksforGeeks: https://auth.geeksforgeeks.org/user/your-username  
 
 ---
 
